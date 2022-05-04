@@ -29,11 +29,23 @@ ul {
   background: url('../images/carret.svg') no-repeat 98% 10px;
 }
 
+.contact {
+  margin-top: -65px;
+}
+
+.contact form {
+  max-width: 450px;
+}
+
 .projects .project,
 .about-me {
   width: 80%;
 }
 
 .border-top-right-radius {
-    border-top-right-radius: 100px;
+  border-top-right-radius: 100px;
+}
+
+.border-top-left-radius {
+  border-top-left-radius: 100px;
 }
