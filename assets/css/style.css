@@ -49,3 +49,10 @@ ul {
 .border-top-left-radius {
   border-top-left-radius: 100px;
 }
+
+@media screen and (max-width: 768px) {
+    .projects .project,
+    .about-me {
+        width: 95%;
+    }
+}
