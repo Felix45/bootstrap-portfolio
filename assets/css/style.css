@@ -18,3 +18,11 @@ ul {
   width: 74%;
   padding-top: 300px;
 }
+
+.projects .project-languages .badge {
+  background-color: #ebebff;
+}
+
+.projects .project {
+  background-color: #fff;
+}
