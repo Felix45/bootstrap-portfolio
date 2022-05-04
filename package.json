@@ -1,0 +1,19 @@
+{
+  "name": "bootstrap-portfolio",
+  "version": "1.0.0",
+  "description": "\"pair programming portfolio project\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Felix45/bootstrap-portfolio.git"
+  },
+  "author": "\"Felix Ouma, Hanningtone Machuka, Sam Felice\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Felix45/bootstrap-portfolio/issues"
+  },
+  "homepage": "https://github.com/Felix45/bootstrap-portfolio#readme"
+}
