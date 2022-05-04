@@ -24,5 +24,6 @@ ul {
 }
 
 .projects .project {
+  width: 80%;
   background-color: #fff;
 }
