@@ -25,6 +25,10 @@ ul {
   background-color: #fff;
 }
 
+.about .open-menu {
+  background: url('../images/carret.svg') no-repeat 98% 10px;
+}
+
 .projects .project,
 .about-me {
   width: 80%;
