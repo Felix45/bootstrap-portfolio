@@ -23,7 +23,8 @@ ul {
   background-color: #ebebff;
 }
 
-.projects .project {
+.projects .project,
+.about-me {
   width: 80%;
   background-color: #fff;
 }
