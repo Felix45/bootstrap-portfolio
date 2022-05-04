@@ -51,8 +51,18 @@ ul {
 }
 
 @media screen and (max-width: 768px) {
-    .projects .project,
-    .about-me {
-        width: 95%;
-    }
+  .projects .project,
+  .about-me {
+    width: 95%;
+  }
+
+  .intro-section {
+    height: 630px;
+    background: #fff url('../images/header-shapesmobile@2x.svg') no-repeat;
+  }
+
+  .intro-section .intro-content {
+    width: 90%;
+    padding-top: 150px;
+  }
 }
