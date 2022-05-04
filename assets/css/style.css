@@ -5,9 +5,9 @@ ul {
 }
 
 .intro-section {
-  height: 946px;
+  height: 750px;
   background: #fff url('../images/headerbg.svg') no-repeat;
-  background-size: cover;
+  background-size: contain;
   border-bottom-left-radius: 100px;
 }
 
