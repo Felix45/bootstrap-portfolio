@@ -4,6 +4,10 @@ ul {
   list-style-type: none;
 }
 
+.bg-white {
+  background-color: #fff;
+}
+
 .intro-section {
   height: 750px;
   background: #fff url('../images/headerbg.svg') no-repeat;
