@@ -1,0 +1,72 @@
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+.bg-white {
+  background-color: #fff;
+}
+
+.intro-section {
+  height: 750px;
+  background: #fff url('../images/headerbg.svg') no-repeat;
+  background-size: cover;
+  border-bottom-left-radius: 100px;
+}
+
+.intro-section .intro-content {
+  width: 74%;
+  padding-top: 300px;
+}
+
+.projects .project-languages .badge {
+  background-color: #ebebff;
+}
+
+.projects .project,
+.about {
+  background-color: #fff;
+}
+
+.about .open-menu {
+  background: url('../images/carret.svg') no-repeat 98% 10px;
+}
+
+.contact {
+  margin-top: -65px;
+}
+
+.contact form {
+  max-width: 450px;
+}
+
+.projects .project,
+.about-me {
+  width: 80%;
+}
+
+.border-top-right-radius {
+  border-top-right-radius: 100px;
+}
+
+.border-top-left-radius {
+  border-top-left-radius: 100px;
+}
+
+@media screen and (max-width: 768px) {
+  .projects .project,
+  .about-me {
+    width: 95%;
+  }
+
+  .intro-section {
+    height: 630px;
+    background: #fff url('../images/header-shapesmobile@2x.svg') no-repeat;
+  }
+
+  .intro-section .intro-content {
+    width: 90%;
+    padding-top: 150px;
+  }
+}
